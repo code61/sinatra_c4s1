@@ -42,6 +42,6 @@ end
 #   [Extension]
 #   last_name('Pierre de Fermat') #=> 'de Fermat'
 #
-def second_name(full_name)
+def last_name(full_name)
 
 end
