@@ -58,3 +58,4 @@ def last_name(full_name)
 		full_name.split[1..-1].join(' ')
 	end
 end
+
